@@ -1,0 +1,7 @@
+HARD 10000
+Alice 1000
+qqqq 600
+qweasd 590
+qrqr 300
+rrrrr 200
+USER 100
